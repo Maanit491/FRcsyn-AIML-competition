@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "frcsyn aiml competition"
+version = "0.1.0"
+description = ""
+authors = ["Maanit <maanitarora1234@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
